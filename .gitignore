@@ -1,6 +1,3 @@
-# Ignore the entire data directory and all of its contents
-data/
-
 # Ignore the environment configuration file
 .env
 
