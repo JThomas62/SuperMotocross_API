@@ -1,0 +1,26 @@
+{
+  "name": "supermotocross_api",
+  "version": "1.0.0",
+  "description": "SuperMotocross API for the riders in the 250cc and 450cc classes from the 2025 season",
+  "homepage": "https://github.com/JThomas62/SuperMotocross_API#readme",
+  "bugs": {
+    "url": "https://github.com/JThomas62/SuperMotocross_API/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JThomas62/SuperMotocross_API.git"
+  },
+  "license": "ISC",
+  "author": "Jacob Thomas",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "450_riders": [
+    {
+      "id": 1,
+      "name": "Jett Lawrence",
+      "country": "Australia",
+      "race_number": "1 (450SX/SMX) / 18",
+      "team": "Team Honda HRC",
+      "class": "450",
+      "bike": "Honda CRF450RWE"
+    },
+    {
+      "id": 2,
+      "name": "Cooper Webb",
+      "country": "United States",
+      "race_number": "2",
+      "team": "Monster Energy Star Racing Yamaha",
+      "class": "450",
+      "bike": "Yamaha YZ450F"
+    },
+    {
+      "id": 3,
+      "name": "Eli Tomac",
+      "country": "United States",
+      "race_number": "3",
+      "team": "Monster Energy Star Racing Yamaha",
+      "class": "450",
+      "bike": "Yamaha YZ450F"
+    },
+    {
+      "id": 4,
+      "name": "Chase Sexton",
+      "country": "United States",
+      "race_number": "4 / 1 (450MX)",
+      "team": "Red Bull KTM Factory Racing",
+      "class": "450",
+      "bike": "KTM 450 SX-F Factory Edition"
+    },
+    {
+      "id": 5,
+      "name": "Aaron Plessinger",
+      "country": "United States",
+      "race_number": "7",
+      "team": "Red Bull KTM Factory Racing",
+      "class": "450",
+      "bike": "KTM 450 SX-F Factory Edition"
+    },
+    {
+      "id": 6,
+      "name": "Adam Cianciarulo",
+      "country": "United States",
+      "race_number": "9",
+      "team": "Monster Energy Kawasaki",
+      "class": "450",
+      "bike": "Kawasaki KX450"
+    },
+    {
+      "id": 7,
+      "name": "Kyle Chisholm",
+      "country": "United States",
+      "race_number": "11",
+      "team": "Twisted Tea Progressive Suzuki",
+      "class": "450",
+      "bike": "Suzuki RM-Z450"
+    },
+    {
+      "id": 8,
+      "name": "Shane McElrath",
+      "country": "United States",
+      "race_number": "12",
+      "team": "Quad Lock Honda Racing",
+      "class": "450",
+      "bike": "Honda CRF450R"
+    },
+    {
+      "id": 9,
+      "name": "Dylan Ferrandis",
+      "country": "France",
+      "race_number": "14",
+      "team": "Phoenix Racing Honda",
+      "class": "450",
+      "bike": "Honda CRF450R"
+    },
+    {
+      "id": 10,
+      "name": "Dean Wilson",
+      "country": "United Kingdom",
+      "race_number": "15",
+      "team": "Quad Lock Honda Racing",
+      "class": "450",
+      "bike": "Honda CRF450R"
+    },
+    {
+      "id": 11,
+      "name": "Joey Savatgy",
+      "country": "United States",
+      "race_number": "17",
+      "team": "Quad Lock Honda Racing",
+      "class": "450",
+      "bike": "Honda CRF450R"
+    },
+    {
+      "id": 12,
+      "name": "Jason Anderson",
+      "country": "United States",
+      "race_number": "21",
+      "team": "Monster Energy Kawasaki",
+      "class": "450",
+      "bike": "Kawasaki KX450"
+    },
+    {
+      "id": 13,
+      "name": "Malcolm Stewart",
+      "country": "United States",
+      "race_number": "27",
+      "team": "Rockstar Energy Husqvarna Factory Racing",
+      "class": "450",
+      "bike": "Husqvarna FC 450 Factory Edition"
+    },
+    {
+      "id": 14,
+      "name": "Christian Craig",
+      "country": "United States",
+      "race_number": "28",
+      "team": "Rockstar Energy Husqvarna Factory Racing",
+      "class": "450",
+      "bike": "Husqvarna FC 450 Factory Edition"
+    },
+    {
+      "id": 15,
+      "name": "Justin Cooper",
+      "country": "United States",
+      "race_number": "32",
+      "team": "Monster Energy Star Racing Yamaha",
+      "class": "450",
+      "bike": "Yamaha YZ450F"
+    },
+    {
+      "id": 16,
+      "name": "Fredrik Noren",
+      "country": "Sweden",
+      "race_number": "33",
+      "team": "International Supercross Race Team (ISRT)",
+      "class": "450",
+      "bike": "Kawasaki KX450"
+    },
+    {
+      "id": 17,
+      "name": "Colt Nichols",
+      "country": "United States",
+      "race_number": "45",
+      "team": "Twisted Tea Progressive Suzuki",
+      "class": "450",
+      "bike": "Suzuki RM-Z450"
+    },
+    {
+      "id": 18,
+      "name": "Justin Hill",
+      "country": "United States",
+      "race_number": "46",
+      "team": "Team Tedder Monster Energy KTM",
+      "class": "450",
+      "bike": "KTM 450 SX-F"
+    },
+    {
+      "id": 19,
+      "name": "Mitchell Oldenburg",
+      "country": "United States",
+      "race_number": "49",
+      "team": "Liqui Moly Beta Factory Racing",
+      "class": "450",
+      "bike": "Beta 450 RX"
+    },
+    {
+      "id": 20,
+      "name": "Justin Barcia",
+      "country": "United States",
+      "race_number": "51",
+      "team": "Rockstar Energy GASGAS Factory Racing",
+      "class": "450",
+      "bike": "GASGAS MC 450F Factory Edition"
+    },
+    {
+      "id": 21,
+      "name": "Benny Bloss",
+      "country": "United States",
+      "race_number": "57",
+      "team": "Liqui Moly Beta Factory Racing",
+      "class": "450",
+      "bike": "Beta 450 RX"
+    },
+    {
+      "id": 22,
+      "name": "Ken Roczen",
+      "country": "Germany",
+      "race_number": "94",
+      "team": "Progressive Insurance ECSTAR Suzuki",
+      "class": "450",
+      "bike": "Suzuki RM-Z450"
+    },
+    {
+      "id": 23,
+      "name": "Hunter Lawrence",
+      "country": "Australia",
+      "race_number": "96",
+      "team": "Team Honda HRC",
+      "class": "450",
+      "bike": "Honda CRF450RWE"
+    }
+  ],
+  "250_riders": [
+    {
+      "id": 24,
+      "name": "Tom Vialle",
+      "country": "France",
+      "race_number": "1E / 16",
+      "team": "Red Bull KTM Factory Racing",
+      "class": "250",
+      "bike": "KTM 250 SX-F Factory Edition"
+    },
+    {
+      "id": 25,
+      "name": "RJ Hampshire",
+      "country": "United States",
+      "race_number": "1W / 24",
+      "team": "Rockstar Energy Husqvarna Factory Racing",
+      "class": "250",
+      "bike": "Husqvarna FC 250 Factory Edition"
+    },
+    {
+      "id": 26,
+      "name": "Jordon Smith",
+      "country": "United States",
+      "race_number": "19",
+      "team": "Triumph Factory Racing",
+      "class": "250",
+      "bike": "Triumph TF 250-X"
+    },
+    {
+      "id": 27,
+      "name": "Pierce Brown",
+      "country": "United States",
+      "race_number": "20",
+      "team": "Monster Energy Star Racing Yamaha",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    },
+    {
+      "id": 28,
+      "name": "Jalek Swoll",
+      "country": "United States",
+      "race_number": "22",
+      "team": "Triumph Factory Racing",
+      "class": "250",
+      "bike": "Triumph TF 250-X"
+    },
+    {
+      "id": 29,
+      "name": "Julien Beaumer",
+      "country": "United States",
+      "race_number": "23",
+      "team": "Red Bull KTM Factory Racing",
+      "class": "250",
+      "bike": "KTM 250 SX-F Factory Edition"
+    },
+    {
+      "id": 30,
+      "name": "Ryder DiFrancesco",
+      "country": "United States",
+      "race_number": "25",
+      "team": "Rockstar Energy GASGAS Factory Racing",
+      "class": "250",
+      "bike": "GASGAS MC 250F Factory Edition"
+    },
+    {
+      "id": 31,
+      "name": "Ty Masterpool",
+      "country": "United States",
+      "race_number": "26",
+      "team": "Monster Energy Pro Circuit Kawasaki",
+      "class": "250",
+      "bike": "Kawasaki KX250"
+    },
+    {
+      "id": 32,
+      "name": "Phillip Nicoletti",
+      "country": "United States",
+      "race_number": "29",
+      "team": "Team Solitaire Heartbeat Hot Sauce",
+      "class": "250",
+      "bike": "Kawasaki KX250"
+    },
+    {
+      "id": 33,
+      "name": "Jo Shimoda",
+      "country": "Japan",
+      "race_number": "30",
+      "team": "Team Honda HRC",
+      "class": "250",
+      "bike": "Honda CRF250R"
+    },
+    {
+      "id": 34,
+      "name": "Max Anstie",
+      "country": "United Kingdom",
+      "race_number": "31",
+      "team": "Monster Energy Star Racing Yamaha",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    },
+    {
+      "id": 35,
+      "name": "Daxton Bennick",
+      "country": "United States",
+      "race_number": "34",
+      "team": "Monster Energy Star Racing Yamaha",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    },
+    {
+      "id": 36,
+      "name": "Garrett Marchbanks",
+      "country": "United States",
+      "race_number": "36",
+      "team": "Monster Energy Pro Circuit Kawasaki",
+      "class": "250",
+      "bike": "Kawasaki KX250"
+    },
+    {
+      "id": 37,
+      "name": "Coty Schock",
+      "country": "United States",
+      "race_number": "37",
+      "team": "Muc-Off FXR ClubMX Yamaha",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    },
+    {
+      "id": 38,
+      "name": "Haiden Deegan",
+      "country": "United States",
+      "race_number": "38 / 1 (250MX/SMX)",
+      "team": "Monster Energy Star Racing Yamaha",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    },
+    {
+      "id": 39,
+      "name": "Nicholas Romano",
+      "country": "United States",
+      "race_number": "39",
+      "team": "Phoenix Racing Honda",
+      "class": "250",
+      "bike": "Honda CRF250R"
+    },
+    {
+      "id": 40,
+      "name": "Nate Thrasher",
+      "country": "United States",
+      "race_number": "41",
+      "team": "Monster Energy Star Racing Yamaha",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    },
+    {
+      "id": 41,
+      "name": "Levi Kitchen",
+      "country": "United States",
+      "race_number": "47",
+      "team": "Monster Energy Pro Circuit Kawasaki",
+      "class": "250",
+      "bike": "Kawasaki KX250"
+    },
+    {
+      "id": 42,
+      "name": "Cameron McAdoo",
+      "country": "United States",
+      "race_number": "50",
+      "team": "Monster Energy Pro Circuit Kawasaki",
+      "class": "250",
+      "bike": "Kawasaki KX250"
+    },
+    {
+      "id": 43,
+      "name": "Henry Miller",
+      "country": "United States",
+      "race_number": "55",
+      "team": "Storm Lake Honda/Buddy Brooks",
+      "class": "250",
+      "bike": "Honda CRF250R"
+    },
+    {
+      "id": 44,
+      "name": "Seth Hammaker",
+      "country": "United States",
+      "race_number": "56",
+      "team": "Monster Energy Pro Circuit Kawasaki",
+      "class": "250",
+      "bike": "Kawasaki KX250"
+    },
+    {
+      "id": 45,
+      "name": "Cullin Park",
+      "country": "United States",
+      "race_number": "59",
+      "team": "Muc-Off FXR ClubMX Yamaha",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    },
+    {
+      "id": 46,
+      "name": "Carson Mumford",
+      "country": "United States",
+      "race_number": "60",
+      "team": "Quad Lock Honda Racing",
+      "class": "250",
+      "bike": "Honda CRF250R"
+    },
+    {
+      "id": 47,
+      "name": "Cole Thompson",
+      "country": "Canada",
+      "race_number": "61",
+      "team": "Team Solitaire Heartbeat Hot Sauce",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    },
+    {
+      "id": 48,
+      "name": "Maximus Vohland",
+      "country": "United States",
+      "race_number": "92",
+      "team": "Muc-Off FXR ClubMX Yamaha",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    },
+    {
+      "id": 49,
+      "name": "Michael Mosiman",
+      "country": "United States",
+      "race_number": "93",
+      "team": "Monster Energy Star Racing Yamaha",
+      "class": "250",
+      "bike": "Yamaha YZ250F"
+    }
+  ]
+}
